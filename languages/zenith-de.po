@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zenith Slider\n"
+"POT-Creation-Date: 2015-06-12 12:00+0100\n"
+"PO-Revision-Date: 2015-06-12 12:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+"Metabox Konfiguration ist erforderlich, um eine ID-Parameter zu erhalten"
+
+#: cmb2/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr "Klicken um umzuschalten"
+
+#: cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr "Bitte versuche es erneut."
+
+#: cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr "Einbindungscode entfernen"
+
+#: cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Keine oEmbed gefunden für %s . Weitere Infos unter"
+
+#: cmb2/includes/CMB2_Field.php:891
+msgid "Add Group"
+msgstr "Gruppe hinzufügen"
+
+#: cmb2/includes/CMB2_Field.php:892
+msgid "Remove Group"
+msgstr "Gruppe entfernen"
+
+#: cmb2/includes/CMB2_Field.php:914 cmb2/includes/CMB2_Field.php:918
+msgid "None"
+msgstr "Keine"
+
+#: cmb2/includes/CMB2_JS.php:86 cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "löschen"
+
+#: cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "Standard"
+
+#: cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Farbe auswählen"
+
+#: cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Farbe der Untertitel"
+
+#: cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Sonntag Montag Dienstag Mittwoch Donnerstag Freitag Samstag"
+
+#: cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "So, Mo, Di, Mi, Do, Fr, Sa"
+
+#: cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Son, Mon, Die, Mit, Don, Fre, Sam"
+
+#: cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, "
+"November, Dezember"
+
+#: cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+"Jan, Feb, März, April, Mai, Juni, Juli, August, September, Oktober, "
+"November, Dezember"
+
+#: cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "vor"
+
+#: cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "zurück"
+
+#: cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Heute"
+
+#: cmb2/includes/CMB2_JS.php:118 cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "erledigt"
+
+#: cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Wählen Sie die Zeit"
+
+#: cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Tijd"
+
+#: cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Stunde"
+
+#: cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Minute"
+
+#: cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Sekunde"
+
+#: cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Jetzt"
+
+#: cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr "hh: mm TT"
+
+#: cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Diese Datei verwenden"
+
+#: cmb2/includes/CMB2_JS.php:136 cmb2/includes/CMB2_Types.php:983
+msgid "Remove Image"
+msgstr "Bild entfernen"
+
+#: cmb2/includes/CMB2_JS.php:137 cmb2/includes/CMB2_Types.php:356
+#: cmb2/includes/CMB2_Types.php:1002
+msgid "Remove"
+msgstr "Entfernen"
+
+#: cmb2/includes/CMB2_JS.php:138 cmb2/includes/CMB2_Types.php:997
+msgid "File:"
+msgstr "Datei:"
+
+#: cmb2/includes/CMB2_JS.php:139 cmb2/includes/CMB2_Types.php:1000
+msgid "Download"
+msgstr "Download:"
+
+#: cmb2/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr "Alles / Nichts auswählen"
+
+#: cmb2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr "Zeile hinzufügen"
+
+#: cmb2/includes/CMB2_Types.php:734 cmb2/includes/CMB2_Types.php:782
+msgid "No terms"
+msgstr "Keine Begriffe"
+
+#: cmb2/includes/CMB2_Types.php:847
+msgid "Add or Upload Files"
+msgstr "Hinzufügen oder Dateien hochladen"
+
+#: cmb2/includes/CMB2_Types.php:907
+msgid "Add or Upload File"
+msgstr "Hinzufügen oder Dateien hochladen"
+
+#: cmb2/includes/helper-functions.php:249
+msgid "Save"
+msgstr "Speichern"
+
+#: core/interface.php:51
+msgid "Delete Permanently"
+msgstr "Unwiderruflich löschen"
+
+#: core/interface.php:53
+msgid "Move to Trash"
+msgstr "In den Papierkorb verschieben"
+
+#: core/interface.php:55
+msgid "Delete Slider"
+msgstr "Slide löschen"
+
+#: core/interface.php:63 core/interface.php:64
+msgid "Save Slider"
+msgstr "Speichern Slider"
+
+#: core/interface.php:68 core/interface.php:69
+msgid "Update Slider"
+msgstr "Update-Slider"
+
+#: core/interface.php:88
+msgid "Slider Name"
+msgstr "Slider-Name"
+
+#: core/interface.php:89 core/metaboxes.php:116
+msgid "Layout"
+msgstr "Layout"
+
+#: core/interface.php:90
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: core/metaboxes.php:26
+msgid "Highlights"
+msgstr "Besonderheiten"
+
+#: core/metaboxes.php:33
+msgid "Add/Remove New Highlight"
+msgstr "Hinzufügen / Entfernen New Highlight"
+
+#: core/metaboxes.php:35
+msgid "Highlight {#}"
+msgstr "Highlight"
+
+#: core/metaboxes.php:36
+msgid "Add Another Highlight"
+msgstr "Fügen Sie ein weiteres Highlight"
+
+#: core/metaboxes.php:37
+msgid "Remove Highlight"
+msgstr "Entfernen Highlight"
+
+#: core/metaboxes.php:44
+msgid "Title"
+msgstr "Titel"
+
+#: core/metaboxes.php:50
+msgid "Icon"
+msgstr "Icon"
+
+#: core/metaboxes.php:58
+msgid "Desription"
+msgstr "Desription"
+
+#: core/metaboxes.php:60
+msgid "Highlight Content/Description."
+msgstr "Markieren Inhalt / Beschreibung."
+
+#: core/metaboxes.php:65
+msgid "Position"
+msgstr "Position"
+
+#: core/metaboxes.php:68
+msgid "Position the highlight to the left, or to the right from the phone."
+msgstr ""
+"Positionieren Sie die Markierung auf der linken oder auf der rechten Seite "
+"aus dem Telefon."
+
+#: core/metaboxes.php:70
+msgid "Left"
+msgstr "Links"
+
+#: core/metaboxes.php:71
+msgid "Right"
+msgstr "Rechts"
+
+#: core/metaboxes.php:77
+msgid "Screen Image"
+msgstr "Bildschirmanzeige"
+
+#: core/metaboxes.php:79
+msgid "Screen representation of the highlight."
+msgstr "Bildschirmdarstellung des Highlight."
+
+#: core/metaboxes.php:87
+msgid "Screen Slider"
+msgstr "Vollbild-Slider"
+
+#: core/metaboxes.php:92
+msgid "Heading"
+msgstr "Überschrift"
+
+#: core/metaboxes.php:98
+msgid "Content"
+msgstr "Inhalt"
+
+#: core/metaboxes.php:105
+msgid "Screens"
+msgstr "Bildschirme"
+
+#: core/metaboxes.php:109
+msgid ""
+"Select/upload multiple screens. Hold CTRL and keep clicking on the images "
+"until you do not select them all."
+msgstr ""
+"Wählen Sie / laden mehrere Bildschirme. Halten Sie STRG gedrückt und halten "
+"Sie auf die Bilder, bis Sie sie alle nicht auswählen."
+
+#: core/metaboxes.php:117
+msgid "General Options"
+msgstr "Allgemeine Einstellungen"
+
+#: core/metaboxes.php:118
+msgid "Preview"
+msgstr "Vorschau"
+
+#: core/metaboxes.php:188
+msgid "Active Index"
+msgstr "Aktive Index"
+
+#: core/metaboxes.php:189
+msgid ""
+"This is screen/image that will be active/visible by default when page loads. "
+"(first slide/screen starts from 0)"
+msgstr ""
+"Dies ist Bild / Bild, das aktiv / sichtbar ist, wird standardmäßig beim "
+"Laden von Seiten. (Erste Folie / Schirm beginnt bei 0)"
+
+#: core/metaboxes.php:195
+msgid "Slide Speed"
+msgstr "Geschwindigkeit der Slide"
+
+#: core/metaboxes.php:196
+msgid ""
+"Slide stransition speed, determines how fast will slides animate/scroll."
+msgstr ""
+"Slide stransition Geschwindigkeit bestimmt, wie schnell wird Dias "
+"animieren / Scroll."
+
+#: core/metaboxes.php:202
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: core/metaboxes.php:203
+msgid "This is a background color of the slider section."
+msgstr "Dies ist eine Hintergrundfarbe des Schiebers Abschnitt."
+
+#: core/metaboxes.php:208
+msgid "Autoplay Settings"
+msgstr "Autoplay-Einstellungen"
+
+#: core/metaboxes.php:211
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: core/metaboxes.php:213 core/metaboxes.php:235 core/metaboxes.php:308
+#: core/metaboxes.php:333
+msgid "On"
+msgstr "Ein"
+
+#: core/metaboxes.php:216 core/metaboxes.php:238 core/metaboxes.php:311
+#: core/metaboxes.php:336
+msgid "Off"
+msgstr "Aus"
+
+#: core/metaboxes.php:224
+msgid "Autoplay Delay"
+msgstr "Autoplay-Verzögerung"
+
+#: core/metaboxes.php:225
+msgid "Delay between slides (in ms)"
+msgstr "Verzögerung zwischen Folien (in ms)"
+
+#: core/metaboxes.php:231
+msgid "Autoplay Stop"
+msgstr "Autoplay-Stopp"
+
+#: core/metaboxes.php:232
+msgid "Stop the autoplay when mouse enters the screen/phone area."
+msgstr ""
+"Stoppen Sie die Autoplay, wenn die Maus in die Bildschirm / Telefonbereich."
+
+#: core/metaboxes.php:245
+msgid "Slide Direction"
+msgstr "Schwenkrichtung"
+
+#: core/metaboxes.php:246
+msgid ""
+"Animation direction, determines if the slides are going to scroll to the "
+"left-right (horizontal) direction, of up-down (vertical) direction."
+msgstr ""
+"Animation Richtung bestimmt, ob die Objektträger werden auf die nach links "
+"und rechts (horizontal) in Richtung zu scrollen, der Aufwärts-Abwärts-"
+"Richtung (vertikal)."
+
+#: core/metaboxes.php:259
+msgid "Icon Style"
+msgstr "Ikonen-Art"
+
+#: core/metaboxes.php:270
+msgid "Icon Color"
+msgstr "Icon Farbe"
+
+#: core/metaboxes.php:275
+msgid "Icon Background Color"
+msgstr "Icon-Hintergrundfarbe"
+
+#: core/metaboxes.php:276
+msgid "Background color of the circle/square that holds the icon."
+msgstr "Hintergrundfarbe des Kreis / Quadrat, das das Symbol enthält."
+
+#: core/metaboxes.php:282
+msgid "Active Icon Background Color"
+msgstr "Aktiv Icon Hintergrundfarbe"
+
+#: core/metaboxes.php:283
+msgid "Background color of the circle/square of currently active highlight."
+msgstr "Hintergrundfarbe des Kreis / Quadrat der derzeit aktiven Highlight."
+
+#: core/metaboxes.php:288
+msgid "Phone Version"
+msgstr "Phone Version"
+
+#: core/metaboxes.php:300
+msgid "Screen navs"
+msgstr "Screen navs"
+
+#: core/metaboxes.php:304
+msgid "Bullet Navigation"
+msgstr "Bullet Navigation"
+
+#: core/metaboxes.php:305
+msgid "Display or hide bullet-navigation."
+msgstr "Ein- oder ausblenden kugel navigation."
+
+#: core/metaboxes.php:317
+msgid "Bullets Color"
+msgstr "Farbe der Untertitel"
+
+#: core/metaboxes.php:322
+msgid "Active Bullet Color"
+msgstr "Aktive Kugel Farbe"
+
+#: core/metaboxes.php:323
+msgid "Color of the currently active bullet."
+msgstr "Farbe des gerade aktiven Kugel."
+
+#: core/metaboxes.php:329
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: core/metaboxes.php:330
+msgid "Show/Hide navigational arrows."
+msgstr "Show / Hide Navigationspfeile."
+
+#: core/setup.php:76
+msgid "Slide"
+msgstr "Teaser"
+
+#: core/setup.php:77
+msgid "Slides"
+msgstr "Teaser"
+
+#: core/setup.php:78
+msgid "Add Slider"
+msgstr "Slider hinzufügen"
+
+#: core/setup.php:79
+msgid "Add Slide"
+msgstr "Slide hinzufügen"
+
+#: core/setup.php:80
+msgid "New Slide"
+msgstr "Neuen Teaser"
+
+#: core/setup.php:81
+msgid "Edit Slider"
+msgstr "Slider bearbeiten"
+
+#: core/setup.php:82
+msgid "All Sliders"
+msgstr "Alle Slider"
+
+#: core/setup.php:83
+msgid "View Slider"
+msgstr "Slider anzeigen"
+
+#: core/setup.php:84
+msgid "No Slider found"
+msgstr "Kein Slider gefunden"
+
+#: core/setup.php:85
+msgid "No Slider found in trash"
+msgstr "Kein Slider in trash gefunden"
